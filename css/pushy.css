@@ -85,7 +85,7 @@
     bottom: 0;
     left: 0;
     z-index: 9998;
-    background-color: rgba(0,0,0,0.5);
+    background-color: rgba(0,0,0,0);
     -webkit-animation: fade 500ms;
     -moz-animation: fade 500ms;
     -o-animation: fade 500ms;
